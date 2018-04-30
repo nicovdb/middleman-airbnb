@@ -1,0 +1,14 @@
+- name: 'Berlin'
+  country: 'Germany'
+  picture: "https://kitt.lewagon.com/placeholder/cities/berlin"
+  stars: 3
+- name: 'Shanghai'
+  country: 'China'
+  picture: "https://kitt.lewagon.com/placeholder/cities/shanghai"
+  stars: 3
+- name: 'Rio'
+  country: 'Brasil'
+  picture: "https://kitt.lewagon.com/placeholder/cities/rio"
+  stars: 5
+
+
